@@ -1,9 +1,10 @@
-🤖 Pixel – Virtual Voice Assistant
+## 🤖 Pixel – Virtual Voice Assistant
 
 Pixel is a browser-based Virtual Voice Assistant built using HTML, CSS, JavaScript, and a Node.js backend.
 It can listen to voice commands, speak responses, open websites, play music, and even control system applications like File Explorer, VS Code, Notepad, Calculator, etc.
+---
 
-🚀 Features
+## 🚀 Features
 
 🎙️ Voice Recognition using Web Speech API
 
@@ -18,41 +19,27 @@ It can listen to voice commands, speak responses, open websites, play music, and
 🎨 Clean & modern UI with animations
 
 🇮🇳 Supports English (India) voice (en-IN)
+--
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Frontend
 
-HTML5
+  HTML5
 
-CSS3
+  CSS3
 
-JavaScript
+  JavaScript
 
-Web Speech API (SpeechRecognition & SpeechSynthesis)
+  Web Speech API (SpeechRecognition & SpeechSynthesis)
 
 Backend
 
-Node.js
+  Node.js
 
-Express.js
+  Express.js
+---
 
-CORS
-
-Child Process (exec)
-
-📁 Project Structure
-Pixel-Voice-Assistant/
-│
-├── index.html        # Main UI
-├── style.css         # Styling
-├── script.js         # Voice assistant logic
-├── backend.js        # Node.js backend (system control)
-├── Logo_img.png      # Logo
-├── LCPT.gif          # Voice animation
-├── mic.svg           # Microphone icon
-└── README.md         # Project documentation
-
-🎤 Example Voice Commands
+## 🎤 Example Voice Commands
 🔹 Basic Commands
 
 "Hello"
@@ -98,11 +85,26 @@ Pixel-Voice-Assistant/
 "Open Camera"
 
 "Open Paint"
+🔹 Any Questoin 
+---
 
-🙋‍♂️ Author
+## 📁 Project Structure
+Pixel-Voice-Assistant/
+│
+├── index.html        # Main UI
+├── style.css         # Styling
+├── script.js         # Voice assistant logic
+├── backend.js        # Node.js backend (system control)
+├── Logo_img.png      # Logo
+├── LCPT.gif          # Voice animation
+├── mic.svg           # Microphone icon
+└── README.md         # Project documentation
+--
 
-Aritra Mandal
+## 🙋‍♂️ Author
 
-GitHub: @aritracoder-435
+  Aritra Mandal
 
-LinkedIn: Aritra Mandal
+  GitHub: @aritracoder-435
+
+  LinkedIn: Aritra Mandal
